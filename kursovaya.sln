@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kursovaya", "kursovaya\kursovaya.vcproj", "{AE4CBCF0-B2B4-4053-9D1E-9C11A683575C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE4CBCF0-B2B4-4053-9D1E-9C11A683575C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AE4CBCF0-B2B4-4053-9D1E-9C11A683575C}.Debug|Win32.Build.0 = Debug|Win32
+		{AE4CBCF0-B2B4-4053-9D1E-9C11A683575C}.Release|Win32.ActiveCfg = Release|Win32
+		{AE4CBCF0-B2B4-4053-9D1E-9C11A683575C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
